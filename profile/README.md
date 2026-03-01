@@ -6,3 +6,4 @@
   - mDNS
 - Zigby
 - Z-Wave
+- IFTTT
